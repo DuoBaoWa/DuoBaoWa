@@ -7,9 +7,9 @@
 
 <img align="right" src="https://github.com/DuoBaoWa/DuoBaoWa/blob/main/cat_chino.jpg" width="60%" height="60%" alt="猫耳智乃酱 cat_chino" />
 
-awa，这里是多宝，在各个平台都有混迹的w
+AwA，这里是多宝，在各个平台都有混迹的w
 
-awa, there`s DuoBao, active in many platforms
+AwA, there`s DuoBao, active in many platforms
 
  - 🌱 最常用的语言: Python (〃'▽'〃)
  - 🌱 Most common used laguage: Python (〃'▽'〃)
@@ -31,7 +31,7 @@ awa, there`s DuoBao, active in many platforms
 
 平时主要用的是python啦，其它的语言也稍微有点了解
 
-Often use python, but also know some other languages awa
+Often use python, but also know some other languages AwA
 
 
 ---
@@ -48,7 +48,7 @@ Often use python, but also know some other languages awa
 <img align="right" src="https://github.com/DuoBaoWa/DuoBaoWa/blob/main/MC_profile.png" width="60%" height="60%" alt="MC皮肤" />
 
 
-AcFun : [🍥](https://m.acfun.cn/upPage/73505042)
+🍥
 
 
 
