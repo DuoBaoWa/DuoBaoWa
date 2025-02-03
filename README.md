@@ -1,9 +1,3 @@
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuoBaoWa)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=DuoBaoWa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <h1 align="center">Hi 👋, I'm DuoBao</h1>
 <h1 align=“center”>Hi 👋 ， 我是多宝</h1>
 <h3 align="center">Cute DouBao</h3>  
