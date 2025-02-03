@@ -63,9 +63,9 @@ Just a Tech Otaku, writes some useless programs QwQ
 [![trophy](https://github-profile-trophy.vercel.app/?username=DuoBaoWa)](https://github.com/ryo-ma/github-profile-trophy)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuoBaoWa/DuoBaoWa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DuoBaoWa/DuoBaoWa/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DuoBaoWa/DuoBaoWa/output/github-contribution-grid-snake.svg">
 </picture>
 
 
