@@ -47,9 +47,6 @@ Often use python, but also know some other languages awa
 
 <img align="right" src="https://github.com/DuoBaoWa/DuoBaoWa/blob/main/MC_profile.png" width="60%" height="60%" alt="MC皮肤" />
 
-bluesky : [xiaohanqwq](https://bsky.app/profile/xiaohanqwq.bsky.social) & [DuoBaoWa](https://bsky.app/profile/DuoBaoWa.bsky.social)
-
-Twitter(X) : [@Xiaohan_QwQ](https://x.com/Xiaohan_QwQ) & [DuoBaoWa](https://x.com/DuoBaoWa)
 
 AcFun : [🍥](https://m.acfun.cn/upPage/73505042)
 
@@ -80,15 +77,6 @@ Just a Tech Otaku, writes some useless programs QwQ
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DuoBaoWa)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Github贪吃蛇
-### Github snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuoBaoWa/DuoBaoWa/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DuoBaoWa/DuoBaoWa/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="snake.svg">
- <!-- 本地加载snake.svg, 记得手动更新 -->
-</picture>
 
 ### 🔝 首要贡献反馈
 ### 🔝 Top Contributed Repo
