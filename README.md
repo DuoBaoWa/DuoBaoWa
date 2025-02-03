@@ -36,24 +36,12 @@ Often use python, but also know some other languages AwA
 
 ---
 
-<img align="center" src="https://github.com/DuoBaoWa/DuoBaoWa/blob/main/124676643_p0.jpg" alt="过去软弱的我已经死去了" />
-
-# 各个平台账号：
-
-# Account in other platforms:
-
-
-<img align="right" src="https://github.com/DuoBaoWa/DuoBaoWa/blob/main/112576228_p0.jpg" width="40%" height="40%" alt="芙莉莲" />
-<img align="right" src="https://github.com/yuhan2680/yuhan2680/blob/main/122687594_p0.png" width="60%" height="60%" alt=" " />
-
-
-🍥
-
+<img align="center" src="https://github.com/DuoBaoWa/DuoBaoWa/blob/main/113342357_p0.png" alt="过去软弱的我已经死去了" />
 
 
 # 其它
 # Others
-
+<img align="right" src="https://github.com/DuoBaoWa/DuoBaoWa/blob/main/112576228_p0.jpg" width="40%" height="40%" alt="芙莉莲" />
 
 
 是一只二次元废萌，什么都不会只会装可爱的那种(x)
