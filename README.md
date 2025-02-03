@@ -55,9 +55,7 @@ AcFun : [🍥](https://m.acfun.cn/upPage/73505042)
 # 其它
 # Others
 
-性取向是无性恋，是正在HRT的Agender(无性别)
 
-Sexual is Asexuality. Is an Agender, HRTing
 
 是一只二次元废萌，什么都不会只会装可爱的那种(x)
 
@@ -87,9 +85,7 @@ Just a Tech Otaku, writes some useless programs QwQ
 # Some projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DuoBaoWa&repo=DuoBaoWa)](https://github.com/DuoBaoWa/DuoBaoWa)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DuoBaoWa&repo=GBox)](https://github.com/DuoBaoWa/GBox)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DuoBaoWa&repo=PictureStretcher)](https://github.com/DuoBaoWa/PictureStretcher)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DuoBaoWa&repo=AISpeechRecognitionChooseSong)](https://github.com/DuoBaoWa/AISpeechRecognitionChooseSong)
+
 
 # 访客数量
 # Visitor Count
