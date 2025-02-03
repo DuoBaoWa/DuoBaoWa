@@ -14,8 +14,8 @@ AwA, there`s DuoBao, active in many platforms
  - 🌱 最常用的语言: Python (〃'▽'〃)
  - 🌱 Most common used laguage: Python (〃'▽'〃)
 
- - 🔭 正在学习的: C++, HTML, JavaScript φ(>ω<*)
- - 🔭 Studing: C++, HTML, JavaScript φ(>ω<*)
+ - 🔭 正在学习的: Scala φ(>ω<*)
+ - 🔭 Studing: Scala φ(>ω<*)
 
  - 👯 同类可以互相认识一下的啦~ (๑╹ヮ╹๑)ﾉ
  - 👯 Want to make friends~ (๑╹ヮ╹๑)ﾉ
