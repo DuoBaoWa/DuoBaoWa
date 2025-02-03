@@ -43,9 +43,8 @@ Often use python, but also know some other languages AwA
 # Account in other platforms:
 
 
-<img align="right" src="https://github.com/DuoBaoWa/DuoBaoWa/blob/main/baiyun.jpeg" width="60%" height="60%" alt="百云龙之助 baiyun" />
+<img align="right" src="https://github.com/DuoBaoWa/DuoBaoWa/blob/main/112576228_p0.jpg" width="50%" height="50%" alt="芙莉莲" />
 
-<img align="right" src="https://github.com/DuoBaoWa/DuoBaoWa/blob/main/MC_profile.png" width="60%" height="60%" alt="MC皮肤" />
 
 
 🍥
