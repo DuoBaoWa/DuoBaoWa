@@ -1,15 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7124C&center=true%C2%A0%C2%A0%E7%9C%9F&vCenter=true%C2%A0%C2%A0%E7%9C%9F&repeat=true%C2%A0%C2%A0%E7%9C%9F&random=false%C2%A0%C2%A0%E5%81%87&width=435&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E8%BF%99%E9%87%8C%E6%98%AF%E5%A4%9A%E5%AE%9D+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
-
+<img align="center" src="https://github.com/DuoBaoWa/DuoBaoWa/blob/main/Duo%20Bao.png" width="800px" height="500px" alt="Duo Dao" />
 
 # 信息
 # Informations
 
 <img align="right" src="https://github.com/DuoBaoWa/DuoBaoWa/blob/main/cat_chino.jpg" width="60%" height="60%" alt="猫耳智乃酱 cat_chino" />
 
-awa，这里是多宝，在各个平台都有混迹的w
+AwA，这里是多宝，在各个平台都有混迹的w
 
-awa, there`s DuoBao, active in many platforms
+AwA, there`s DuoBao, active in many platforms
 
  - 🌱 最常用的语言: Python (〃'▽'〃)
  - 🌱 Most common used laguage: Python (〃'▽'〃)
@@ -31,7 +31,7 @@ awa, there`s DuoBao, active in many platforms
 
 平时主要用的是python啦，其它的语言也稍微有点了解
 
-Often use python, but also know some other languages awa
+Often use python, but also know some other languages AwA
 
 
 ---
@@ -48,7 +48,7 @@ Often use python, but also know some other languages awa
 <img align="right" src="https://github.com/DuoBaoWa/DuoBaoWa/blob/main/MC_profile.png" width="60%" height="60%" alt="MC皮肤" />
 
 
-AcFun : [🍥](https://m.acfun.cn/upPage/73505042)
+🍥
 
 
 
