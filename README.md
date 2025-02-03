@@ -36,7 +36,7 @@ Often use python, but also know some other languages AwA
 
 ---
 
-<img align="center" src="https://github.com/DuoBaoWa/DuoBaoWa/blob/main/background.jpg" alt="恋爱小行星 background" />
+<img align="center" src="https://github.com/DuoBaoWa/DuoBaoWa/blob/main/124676643_p0.jpg" alt="过去软弱的我已经死去了" />
 
 # 各个平台账号：
 
