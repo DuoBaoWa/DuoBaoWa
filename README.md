@@ -71,7 +71,6 @@ Just a Tech Otaku, writes some useless programs QwQ
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuoBaoWa)](https://github.com/anuraghazra/github-readme-stats)
 
-[![DuoBaoWa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DuoBaoWa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DuoBaoWa)](https://github.com/ryo-ma/github-profile-trophy)
 
