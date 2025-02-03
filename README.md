@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm DuoBao</h1>
-<h1 align=“center”>Hi 👋 ， 我是多宝</h1>
+<h1 align=“center”>你好 👋 ， 我是多宝</h1>
 <h3 align="center">Cute DouBao</h3>  
-可爱的豆包
+可爱的多宝
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duobaowa&label=Profile%20views&color=0e75b6&style=flat" alt="duobaowa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duobaowa" alt="duobaowa" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-与我联系：
 
 <p align="left">
 </p>
