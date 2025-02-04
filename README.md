@@ -53,7 +53,7 @@ Is an ACG Otaku! Very cute!
 
 Just a Tech Otaku, writes some useless programs QwQ
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuoBaoWa)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DuoBaoWa&background=003f2f&stroke=d0e9ff&ring=a2d8f4&dates=d0e9ff&sideNums=a2d8f4&currStreakNum=a2d8f4&excludeDaysLabel=d0e9ff&sideLabels=d0e9ffdd&currStreakLabel=a2d8f4" />
 
