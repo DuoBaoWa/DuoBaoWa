@@ -53,14 +53,11 @@ Is an ACG Otaku! Very cute!
 
 Just a Tech Otaku, writes some useless programs QwQ
 
-![DuoBaoWa's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuoBaoWa&show_icons=true&count_private=false&theme=tokyonight)
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DuoBaoWa&background=003f2f&stroke=d0e9ff&ring=a2d8f4&dates=d0e9ff&sideNums=a2d8f4&currStreakNum=a2d8f4&excludeDaysLabel=d0e9ff&sideLabels=d0e9ffdd&currStreakLabel=a2d8f4" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuoBaoWa)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=DuoBaoWa)](https://github.com/ryo-ma/github-profile-trophy)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuoBaoWa/DuoBaoWa/output/github-contribution-grid-snake-dark.svg">
