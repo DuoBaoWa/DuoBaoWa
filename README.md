@@ -15,25 +15,6 @@ AwA, there`s DuoBao, active in many platforms
  - 🌱 最常用的语言: Python (〃'▽'〃)
  - 🌱 Most common used laguage: Python (〃'▽'〃)
 
- - 🔭 正在学习的: Scala φ(>ω<*)
- - 🔭 Studing: Scala φ(>ω<*)
-
- - 👯 同类可以互相认识一下的啦~ (๑╹ヮ╹๑)ﾉ
- - 👯 Want to make friends~ (๑╹ヮ╹๑)ﾉ
-
- - 💬 欢迎一起交流交流w (*^o^)人(^o^*)
- - 💬 Welcome discussing (*^o^)人(^o^*)
-
- - 📫 联系方式在下面啦 (〃'▽'〃)
- - 📫 Contact is under there (〃'▽'〃)
-
- - 💕 麻烦给个小星星啦~ (￣▽￣)~*
- - 💕 Wants some star ~ (￣▽￣)~*
-
-平时主要用的是python啦，其它的语言也稍微有点了解
-
-Often use python, but also know some other languages AwA
-
 
 ---
 
@@ -44,14 +25,6 @@ Often use python, but also know some other languages AwA
 # Others
 <img align="right" src="https://github.com/DuoBaoWa/DuoBaoWa/blob/main/112576228_p0.jpg" width="40%" height="40%" alt="芙莉莲" />
 
-
-是一只二次元废萌，什么都不会只会装可爱的那种(x)
-
-Is an ACG Otaku! Very cute!
-
-就是一个科技宅而已啦,平时会写一些没用的程序之类的QwQ
-
-Just a Tech Otaku, writes some useless programs QwQ
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuoBaoWa)](https://github.com/anuraghazra/github-readme-stats)
 
