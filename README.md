@@ -6,12 +6,6 @@
 # 信息
 # Informations
 
-<img align="right" src="https://github.com/DuoBaoWa/DuoBaoWa/blob/main/cat_chino.jpg" width="60%" height="60%" alt="猫耳智乃酱 cat_chino" />
-
-AwA，这里是多宝，在各个平台都有混迹的w
-
-AwA, there`s DuoBao, active in many platforms
-
  - 🌱 最常用的语言: Python (〃'▽'〃)
  - 🌱 Most common used laguage: Python (〃'▽'〃)
 
